@@ -1,5 +1,5 @@
 //Assignment-2 1st Problem
-/*
+
 function triangle(a, b, c) {
     if (a === b && b === c) {
         console.log("It is a equilateral triangle")
@@ -13,10 +13,10 @@ function triangle(a, b, c) {
 let x = 4
 let y = 7
 let z = 5
-triangle(x, y, z)*/
+triangle(x, y, z)
 
 //2nd problem
-/*a = 70
+a = 70
 switch (true) {
     case (a >= 90 && a <= 100):
         {
@@ -55,9 +55,8 @@ switch (true) {
         }
     default:
         console.log('INVALID SCORE')
-}*/
+}
 //3rd Problem
-/*
 function numbers(a) {
     let sum = 0;
     for (num = 0; num < a; num++) {
@@ -67,7 +66,7 @@ function numbers(a) {
     }
     console.log("The sum of multiples of 3 and 5 is: ", sum)
 }
-numbers(1000)*/
+numbers(1000)
 //4th Problem
 function prime(a, b) {
     for (let i = a; i <= b; i++) {
